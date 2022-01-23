@@ -1,2 +1,3 @@
-# meus-projetos
-Repositório para projetos
+# Meus Projetos
+
+Repositório utilizado para projetos e desafios pesoais de programação
